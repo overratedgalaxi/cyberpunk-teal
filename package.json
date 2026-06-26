@@ -2,9 +2,13 @@
   "name": "cyberpunk-teal",
   "displayName": "Cyberpunk Teal",
   "publisher": "overratedgalaxi",
-  "description": "Teal cyberpunk theme for VS Code",
-  "version": "0.0.2",
-  "repository": "https://github.com/overratedgalaxi/cyberpunk-teal",
+  "description": "Cyberpunk Theme is a sleek dark theme for Visual Studio Code inspired by the glow of futuristic city skylines and neon-lit streets.",
+  "version": "0.0.3",
+  "icon": "images/icon-2.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/overratedgalaxi/cyberpunk-teal.git"
+  },
   "engines": {
     "vscode": "^1.125.0"
   },
