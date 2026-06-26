@@ -1,16 +1,11 @@
 # cyberpunk-teal README
 
-## Working with Markdown
+Hello! I am overratedgalaxi, a graphic designer who works on games, websites, apps, and UI themes.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This is a theme I made for VS Code called Cyberpunk Teal. It was inspired by [toribio's](https://themes.vscode.one/user/toribio) VS Code theme, [Cyberpunk - Yellow Theme](https://themes.vscode.one/theme/toribio/kscitOxw).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Check out my [GitHub](https://github.com/overratedgalaxi) to see what else I'm working on. I also post on [X](https://x.com/overratedgalaxi).
 
-## For more information
+If you request a different theme color or different syntax text colors, I could probably make that for you. Feel free to get in touch on [X](https://x.com/overratedgalaxi)!
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Thanks for using my theme, I hope you like it!**

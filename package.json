@@ -1,7 +1,8 @@
 {
   "name": "cyberpunk-teal",
   "displayName": "Cyberpunk Teal",
-  "description": "Teal cyberpunk theme for VS Code.",
+  "publisher": "overratedgalaxi",
+  "description": "Teal cyberpunk theme for VS Code, pink yellow red teal syntax colors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.125.0"
