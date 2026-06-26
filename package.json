@@ -1,0 +1,21 @@
+{
+  "name": "cyberpunk-teal",
+  "displayName": "Cyberpunk Teal",
+  "description": "Teal cyberpunk theme for VS Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk Teal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberpunk Teal-color-theme.json"
+      }
+    ]
+  }
+}
